@@ -1,7 +1,7 @@
 # Slot-Machine
 
 
-Example Output
+* Example Output:
 
 🎰 Welcome to the Slot Machine 🎰
 
